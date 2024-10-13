@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshatamBhushanam
-- 👀 I’m interested in problem selving
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning maching learning in python
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me? I dont know
